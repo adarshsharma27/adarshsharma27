@@ -3,9 +3,6 @@
 
 ### Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-
-
-
 ## I'm a Ux/Ui designer, Frontend Developer!
 
 - 🔭 I’m currently working on  my own  projects.
