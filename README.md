@@ -1,6 +1,6 @@
 #Hi there, I'm Adarsh sharma(Frontendadarsh) 👋
 
-<img align="right" src=  "https://user-images.githubusercontent.com/37371998/90332933-bfb0f300-dfde-11ea-9fa3-4a8b408a980d.jpeg">
+<img align="right" src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" witdh="400px">
 
 ## I'm a Ux/Ui designer, Frontend Developer!
 
@@ -12,7 +12,6 @@
 
 
 ### Connect with me:
-
 
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
