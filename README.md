@@ -1,8 +1,6 @@
 ### Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
-# Hi there, I'mAdarsh sharma(Frontendadarsh)
-
-<img src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" witdh="80px">
+# Hi, I'm Adarsh sharma(Frontendadarsh)<img src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" witdh="60px">
 
 
 ## I'm a Ux/Ui designer, Frontend Developer!
