@@ -8,10 +8,11 @@
 - 🔭 I’m currently working on  my own  projects.
 - 💬 Free to ask for any help.
 - 👯 I’m looking for a job as a frontend developer.
-- 🥅 2020 Goals: Updgarde myself every day and start to Contribute to Open Source projects
-- ⚡ Fun fact: I love to play every sports.
+- 🥅 Updgarde myself every day and start to Contribute to Open Source projects
+- ⚡  I love to play every sports.
 
 <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="500px">
+
 ### Connect with me:
 
 
