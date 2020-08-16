@@ -1,14 +1,15 @@
-#Hi there, I'm Adarsh sharma(Frontendadarsh) 👋
+### Hey   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
+#Hi !! there, I'm Adarsh sharma(Frontendadarsh) 
 
-<img align="right" src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" witdh="400px">
+<img align="right" src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" witdh="100px">
 
 ## I'm a Ux/Ui designer, Frontend Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on  my own  projects.
+- 💬 Free to ask for any help.
+- 👯 I’m looking for a job as a frontend developer.
+- 🥅 2020 Goals: Updgarde myself every day and start to Contribute to Open Source projects
+- ⚡ Fun fact: I love to play every sports.
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="500px">
 ### Connect with me:
