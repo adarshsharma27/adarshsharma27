@@ -1,6 +1,5 @@
  
- ## Adarsh sharma(Frontendadarsh)  
- <img src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" height="70px">  
+ ## <large>Adarsh sharma(Frontendadarsh)</large> <img src=  "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" height="70px">  
 
 ### Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
 
